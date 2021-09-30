@@ -3,7 +3,9 @@
 
 Welcome to my profile! I'm a **Computer Science student at McMaster University**. 
 
-- Previously, I've worked at **IBM** and I am currently working at **Morgan Stanley**.
+- Previously, I've worked at **IBM** and **Morgan Stanley**.
+- I'll be graduating in Spring 2022, so I'm actively looking for new grad roles!
+- While I mainly have experience in backend Java development, data science in Python, and some web development work, I'm very open to learning new things, especially as someone just starting their career!
 
 ![Jennifer Cheng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jennifer-c&show_icons=true&hide_border=true)
 
